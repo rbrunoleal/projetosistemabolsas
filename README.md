@@ -1,23 +1,24 @@
 # Projeto de Acompanhamento de Bolsistas
-#Equipe 4
+## Equipe 4
 
-#EQUIPE:
-#Cláudio José Nunes Vieira Filho
-#Vicente Barreira Neto
-#Danilo Brito Oliveira
+## EQUIPE:
+# Cláudio José Nunes Vieira Filho
+# Vicente Barreira Neto
+# Danilo Brito Oliveira
 
-#TECNOLOGIAS UTILIZADAS
-#Desenvolvimento
-#Front-end: VueJS
-#Back-end: PHP Framework Web Laravel
-#Banco de dados: MySql
-#Controle de versão: GitHUB
+## TECNOLOGIAS UTILIZADAS
 
-#Deploy
-#Heroku
+### Desenvolvimento
+# Front-end: VueJS
+# Back-end: PHP Framework Web Laravel
+# Banco de dados: MySql
+# Controle de versão: GitHUB
 
-#Back-end
-#Heroku
+### Deploy
+# Heroku
 
-#Gestão
-#Kanban - Ferramenta Trello
+# Back-end
+# Heroku
+
+### Gestão
+# Kanban - Ferramenta Trello
