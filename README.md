@@ -22,4 +22,4 @@
 #### Kanban - Ferramenta Trello
 
 ### Requisitos:
-https://docs.google.com/document/d/1WTHVPWCUKGwSPMlMrSTounF4Siaw5FQrBJOMCdeePeg/edit#heading=h.2s8eyo1
+https://docs.google.com/document/d/187uSkkNis6GPuuu3ubYbt1gd0h2fePIdCh5CHKBzqhs/edit?usp=sharing
