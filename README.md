@@ -23,3 +23,6 @@
 
 ### Requisitos:
 https://docs.google.com/document/d/187uSkkNis6GPuuu3ubYbt1gd0h2fePIdCh5CHKBzqhs/edit?usp=sharing
+
+### Proposta de Implementação:
+https://docs.google.com/document/d/1OswTr2yZqylasfMlgVhOVIBmyPpCcm9L-Cn8vq86LfE/edit?usp=sharing
