@@ -26,3 +26,6 @@ https://docs.google.com/document/d/187uSkkNis6GPuuu3ubYbt1gd0h2fePIdCh5CHKBzqhs/
 
 ### Proposta de Implementação:
 https://docs.google.com/document/d/1OswTr2yZqylasfMlgVhOVIBmyPpCcm9L-Cn8vq86LfE/edit?usp=sharing
+
+### Arquitetura:
+https://github.com/rbrunoleal/projetosistemabolsas/blob/main/Arquitetura.pdf
