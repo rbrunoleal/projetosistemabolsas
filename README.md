@@ -32,3 +32,6 @@ https://github.com/rbrunoleal/projetosistemabolsas/blob/main/Arquitetura.pdf
 
 ### Protótipo:
 https://docs.google.com/document/d/1FkizXPTLCBjqCOlsZzmlHKZbPQAgvQeK5CcScfiLgX4/edit?usp=sharing
+
+### Proposta de Testes:
+https://docs.google.com/document/d/1uqg7PFdrJ6wSGiseIuQjX5GE9T_Yl6Ij/edit?usp=sharing&ouid=109474875907817603078&rtpof=true&sd=true
