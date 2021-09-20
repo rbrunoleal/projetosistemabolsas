@@ -9,14 +9,13 @@
 ## Tecnologias Utilizadas:
 
 ### Desenvolvimento:
-#### Front-end: VueJS
+#### Front-end: Html CSS - Blade (Framework Integração Html com Laravel)
 #### Back-end: PHP Framework Web Laravel
 #### Banco de dados: MySql
 #### Controle de versão: GitHUB
 
 ### Deploy:
 #### Heroku
-#### FrontEnd e Backend Separados
 
 ### Gestão:
 #### Kanban - Ferramenta Trello
