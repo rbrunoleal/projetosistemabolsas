@@ -29,3 +29,6 @@ https://docs.google.com/document/d/1OswTr2yZqylasfMlgVhOVIBmyPpCcm9L-Cn8vq86LfE/
 
 ### Arquitetura:
 https://github.com/rbrunoleal/projetosistemabolsas/blob/main/Arquitetura.pdf
+
+### Protótipo:
+https://docs.google.com/document/d/1FkizXPTLCBjqCOlsZzmlHKZbPQAgvQeK5CcScfiLgX4/edit?usp=sharing
