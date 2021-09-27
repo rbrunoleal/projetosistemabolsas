@@ -19,6 +19,7 @@
 
 ### Gestão:
 #### Kanban - Ferramenta Trello
+https://trello.com/b/o2J73U9A/projeto-de-acompanhamento-de-bolsistas
 
 ### Requisitos:
 https://docs.google.com/document/d/187uSkkNis6GPuuu3ubYbt1gd0h2fePIdCh5CHKBzqhs/edit?usp=sharing
